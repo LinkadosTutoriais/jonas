@@ -1,0 +1,31 @@
+[
+
+	{
+		"titulo":"Tradicional",
+		"descricao":"Barato e saboroso.",
+		"porcao":"1 Porção",
+		"img":"https://criptomaniacos.io/imagens/img-facebook.jpg"
+	},
+
+	{
+		"titulo":"Frango",
+		"descricao":"Saboroso e suculento.",
+		"porcao":"1 Porção",
+		"img":"https://criptomaniacos.io/imagens/img-facebook.jpg"
+	},
+
+	{
+		"titulo":"Misto",
+		"descricao":"2 sabores em 1 só lanche.",
+		"porcao":"1 Porção",
+		"img":"https://criptomaniacos.io/imagens/img-facebook.jpg"
+	},
+
+	{
+		"titulo":"Bacon",
+		"descricao":"Esse você vai amar.",
+		"porcao":"1 Porção",
+		"img":"https://criptomaniacos.io/imagens/img-facebook.jpg"
+	}
+
+]
